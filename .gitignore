@@ -32,3 +32,4 @@ HELP.md
 .project
 .settings/*
 .vscode/settings.json
+target/*
